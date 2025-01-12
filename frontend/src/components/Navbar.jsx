@@ -24,7 +24,7 @@ const Navbar = () => {
               <div className="size-9 rounded-lg bg-primary/10 flex items-center justify-center overflow-hidden">
                 <img
                   className="w-full h-full object-cover rounded-lg"
-                  src="/src/assets/icon_app.jpeg"
+                  src="/icon_app.jpeg"
                   alt="EasyChat Logo"
                 />
               </div>

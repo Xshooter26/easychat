@@ -103,7 +103,7 @@ const SignupPage = () => {
                 <input
                   type={showPassword ? "text" : "password"}
                   className={`input input-bordered w-full pl-10 font-serif`}
-                  placeholder=""
+                  placeholder="password"
                   value={formData.password}
                   onChange={(e) => setFormData({ ...formData, password: e.target.value })}
                 />
@@ -148,7 +148,7 @@ const SignupPage = () => {
 
       <div className="hidden lg:flex items-center justify-center alpha-10">
         <img 
-          src="/src/assets/image2.jpg" 
+          src="/image2.jpg" 
           alt="Signup Illustration" 
           className="signup-image rounded-2xl"
         />

@@ -157,7 +157,7 @@ const MessageInputField = () => {
       if (!showGifPicker) fetchTenorGifs();
     }}
   >
-    <img src="/src/assets/gif.png" alt="GIF" className="w-6 h-6" />
+    <img src="/gif.png" alt="GIF" className="w-6 h-6" />
   </button>
   <button
     type="button"
