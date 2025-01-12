@@ -117,7 +117,7 @@ Ensure you have the following installed:
 
 1. Register a new account or log in with existing credentials.
 2. Start chatting with other users.
-3. Enjoy real-time messaging with features like typing indicators and notifications.
+3. Enjoy real-time messaging with features like typing indicators, Emojis and Gifs.
 
 ## Contributions
 Contributions are welcome! Follow these steps to contribute:
@@ -126,8 +126,6 @@ Contributions are welcome! Follow these steps to contribute:
 3. Make your changes and commit them.
 4. Push the changes to your fork.
 5. Open a pull request.
-
-=
 ---
 
 Feel free to star ⭐ the repository if you find it useful!
