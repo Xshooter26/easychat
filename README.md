@@ -1,4 +1,5 @@
 # EasyChat
+https://easychat-v1g3.onrender.com/
 
 EasyChat is a full-stack real-time chat application built using the MERN (MongoDB, Express, React, Node.js) stack with Socket.IO for real-time communication. This project provides a seamless and responsive platform for users to engage in instant messaging.
 
